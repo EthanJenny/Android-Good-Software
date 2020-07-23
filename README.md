@@ -1,7 +1,7 @@
 ## 安卓手机上的好软件
 > 由于作者精力没有太多，所以此仓库就更改为软件推荐，提供链接！如果软件有任何问题的话欢迎在Issues提出！作者上线时间非常佛系，所以可能不会第一时间回复。软件会有一些是破解版，各种版本等都会在下方标注！
 ***
-### 本次更新时间：2020-07-23（更改表格记录信息、增添软件、不再展示是否收费）
+### 本次更新时间：2020-07-23（更改表格记录信息、增添5+软件、不再展示是否收费）
 ### 规则地址：[规则点此](https://github.com/EthanJenny/Android-Good-Software/blob/master/guize.md)
 ***
 ### 各标志意思
@@ -18,3 +18,5 @@
 |20072301031|搞机助手|情非得已c|应用|🔐🔧|2020-07-23|酷安|<kbd>[点此](https://www.coolapk.com/apk/HAN.GJZS)</kbd>|——|
 |2007230104X|ES文件浏览器|北京小熊博望科技有限公司|应用|🔐|2020-07-23|酷安|<kbd>[点此](https://www.coolapk.com/apk/com.estrongs.android.pop)</kbd>|——|
 |20072301057|Snapmod|一岁穿耐克|应用|🔐|2020-07-23|酷安|<kbd>[点此](https://www.coolapk.com/apk/cn.gavinliu.snapmod)</kbd>|——|
+|20072306013|Chimi|yonghen|应用|🔐🔧🔨|2020-07-23|GitHub|<kbd>[点此](https://github.com/yonghen/chimi-)</kbd>|——|
+|20072311016|μTorrent|未知|应用|🔓|2020-07-23|异星软件空间|<kbd>[点此](https://yxssp.lanzous.com/b06g5142f)</kbd>|3h1l|
