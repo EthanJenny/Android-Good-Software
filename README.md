@@ -14,7 +14,7 @@
 |20072201011|清浊|FarPlace|应用|🔐|2020-07-22|<kbd>[点此](https://www.coolapk.com/apk/com.farplace.qingzhuo)</kbd>|——|
 |20072301018|手机性能排行|signfordev|应用|🔐|2020-07-23|<kbd>[点此](https://www.coolapk.com/apk/com.nasoft.socmark)</kbd>|——|
 |20072301025|CellularPro|alibaba1126|应用|🔐|2020-07-23|<kbd>[点此](https://www.coolapk.com/apk/make.more.r2d2.cellular_pro)</kbd>|——|
-|20072301031|搞机助手|情非得已c|应用|-|2020-07-23|作者已不再运营正式版|——|
+|编号已注销|搞机助手|情非得已c|应用|-|已注销|作者已停运正式版|已下架|
 |2007230104X|ES文件浏览器|北京小熊博望科技|应用|🔐|2020-07-23|<kbd>[点此](https://www.coolapk.com/apk/com.estrongs.android.pop)</kbd>|——|
 |20072301057|Snapmod|一岁穿耐克|应用|🔐|2020-07-23|<kbd>[点此](https://www.coolapk.com/apk/cn.gavinliu.snapmod)</kbd>|——|
 |20072306013|Chimi|yonghen|应用|🔐🔧🔨|2020-07-23|<kbd>[点此](https://github.com/yonghen/chimi-)</kbd>|——|
