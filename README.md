@@ -3,6 +3,7 @@
 ***
 #### 本次更新时间：2020-08-12（作者最近要考试暂不更新，准备注销搞机助手软件 编号20072301031）
 #### 规则地址：[规则点此](https://github.com/EthanJenny/Android-Good-Software/blob/master/guize.md)
+#### 注销清单：[规则点此](https://github.com/EthanJenny/Android-Good-Software/blob/master/stop_to_use.md)
 ***
 ### 各标志意思
 **版本** 🔒正版软件（无正规来源） 🔐正版软件（有正规来源） 🔓破解软件 🔧需ROOT后使用 🔨XPOSED模块
