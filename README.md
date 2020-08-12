@@ -1,7 +1,7 @@
 ## 安卓手机上的好软件
 > 由于作者精力没有太多，所以此仓库就更改为软件推荐，提供链接！如果软件有任何问题的话欢迎在Issues提出！作者上线时间非常佛系，所以可能不会第一时间回复。软件会有一些是破解版，各种版本等都会在下方标注！
 ***
-#### 本次更新时间：2020-08-12（作者最近要考试暂不更新，准备注销搞机助手软件 编号20072301031）
+#### 本次更新时间：2020-08-12（作者最近要考试暂不更新，注销软件1款）
 #### 规则地址：[规则点此](https://github.com/EthanJenny/Android-Good-Software/blob/master/guize.md)
 #### 注销清单：[规则点此](https://github.com/EthanJenny/Android-Good-Software/blob/master/stop_to_use.md)
 ***
@@ -45,7 +45,7 @@
 |20080301144|全历史|天津完美引力科技|应用|🔐|2020-08-03|<kbd>[点此](https://coolapk.com/apk/com.allhistory.dls.marble)</kbd>|——|
 |20080301151|句读|北京彩橙科技|应用|🔐|2020-08-03|<kbd>[点此](https://coolapk.com/apk/tech.caicheng.judourili)</kbd>|——|
 |20080301169|小睡眠|广州心与潮信息科技|应用|🔐|2020-08-03|<kbd>[点此](https://coolapk.com/apk/com.psyone.brainmusic)</kbd>|——|
-|20080301176|色采|台江区色彩软件开发工作室|应用|🔐|2020-08-03|<kbd>[点此](https://coolapk.com/apk/com.wizeyes.colorcapture)</kbd>|——|
+|20080301176|色采|台江色彩软件开发工作室|应用|🔐|2020-08-03|<kbd>[点此](https://coolapk.com/apk/com.wizeyes.colorcapture)</kbd>|——|
 |20080301183|做你的图标包|oMMiao|应用|🔐|2020-08-03|<kbd>[点此](https://coolapk.com/apk/cn.ommiao.iconpackcreator)</kbd>|——|
 |20080301190|SleepTown|上海向上软件科技|应用|🔐|2020-08-03|<kbd>[点此](https://coolapk.com/apk/seekrtech.sleep)</kbd>|——|
 |2008034201X|我的世界|网易游戏|游戏|🔐|2020-08-03|<kbd>[点此](https://www.taptap.com/app/43639)</kbd>|——|
